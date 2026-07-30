@@ -1,4 +1,6 @@
-<h1 align="center">the-real-anonymous-codes 🕵️‍♂️</h1>
+
+<h1> <p align="center"> the-real-anonymous-codes 🕵️‍♂️ </h1>
+</p>
 
 <p align="center">
   <em>A quiet corner of GitHub for learning Python, one script at a time.</em>
@@ -36,6 +38,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mint,git,github,vscode,pychram)](https://skillicons.dev)
 
 <p align="center"><em>Learning in public, staying anonymous. 👤</em></p>
