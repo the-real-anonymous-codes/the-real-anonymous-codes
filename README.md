@@ -1,5 +1,4 @@
-
-<h1> <p align="center"> the-real-anonymous-codes 🕵️‍♂️ </h1>
+ <h1> <p align="center"> the-real-anonymous-codes 🕵️‍♂️ </h1>
 </p>
 
 <p align="center">
@@ -10,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Learning+Python+day+by+day;Practicing+loops%2C+conditionals+%26+logic;No+name%2C+just+code." alt="Typing SVG" />
 </p>
 
----
+
 
 ### 🌱 About this account
 
@@ -27,10 +26,10 @@
 | Language | Status |
 |---|---|
 | `Python` | ✅ Practicing |
-| `C` | 🔜 Up next |
 | `JAVA` | 🔜 Up next |
-| `HTML CSS JS` | 🔜 Up next |
-| `RUST` | 🔜 Up next |
+| `HTML CS JS` | 🔜 Up next |
+| `C` | 🔜 Up next |
+
 
 ---
 
@@ -38,6 +37,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=mint,git,github,vscode,pychram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mint,git,github,vscode)](https://skillicons.dev)
 
 <p align="center"><em>Learning in public, staying anonymous. 👤</em></p>
