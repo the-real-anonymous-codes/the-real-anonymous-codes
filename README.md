@@ -1,3 +1,5 @@
+<!-- Banner Image -->
+<img src="./Banner.png" width="100%"/>
  <h1> <p align="center"> the-real-anonymous-codes 🕵️‍♂️ </h1>
 </p>
 
