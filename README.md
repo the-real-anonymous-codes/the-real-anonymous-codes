@@ -34,7 +34,7 @@
 ### Connect
 
 <p align = "left">
-  <a herf = "https://instagram.com/the_real_anonymous_codes">
+  <a href="https://instagram.com/the_real_anonymous_codes" target="_blank">
     <img src = "https://skillicons.dev/icons?i=instagram">
   </a>
 </p> <hr>
